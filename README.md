@@ -1,10 +1,9 @@
-# LMS(Learning Management System )
+# LMS(E-Learning Portal )
 
 This repository contains the source code and implementation of a Learning Management System (LMS) developed using the MERN stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS and DaisyUI for styling, Cloudinary for managing media, and Razorpay for subscription management.
 
-## VIDEO 
 
-https://youtu.be/T8YZitqdlEY
+
 
 ## Table of Contents
 
@@ -35,7 +34,7 @@ The Learning Management System (LMS) is a web-based application that facilitates
  Clone the project 
 
 ```bash
-git@github.com:Princegupta101/Larning-Management-System.git
+git@github.com:dipali-00/E-Learning-Portal.git
 ```
 
 ### Setup instruction  for Frontend
