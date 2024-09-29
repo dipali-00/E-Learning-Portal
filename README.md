@@ -123,7 +123,7 @@ Before running this project locally, ensure you have the following installed:
 
 ## Contributing
 
-We welcome contributions to Learning Management System  Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.
+We welcome contributions to E-Learning Portal  Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.
 
 ## Further-Support
 
